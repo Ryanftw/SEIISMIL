@@ -1,0 +1,90 @@
+.my-banner {
+    width: 100%;
+    font-size: 200%;
+    text-align: center;
+    color: white;
+    background-color: navy;
+  }
+  
+  li {
+    padding-right: 15px;
+  }
+  
+  .modal-pre-auth {
+    display: block;
+  }
+  
+  .modal-pre-auth-all {
+    display: block;
+  }
+  
+  .modal-post-auth {
+    display: none;
+  }
+  
+  .modal-post-auth-user {
+    display: none;
+  }
+  
+  .modal-pre-auth-admin {
+    display: block;
+  }
+  
+  .modal-post-auth-admin {
+    display: none;
+  }
+  
+  .modal-post-auth-all {
+    display: none;
+  }
+  
+  input {
+    display: block;
+    margin: 8px 0;
+    padding: 8px 2px;
+    border-width: 0 0 2px 0;
+    width: 100%;
+  }
+  
+  .my-error {
+    color: red;
+  }
+  
+  textarea {
+    width: 100%;
+    min-height: 150px;
+  }
+  
+  img {
+    max-width: 375px;
+  }
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .rating {
+    width: 180px; 
+  }
+  
+  .rating-star{
+    cursor: pointer;
+    color: #dabd18b2;
+  }
+  
+  .display {
+    width: 180px; 
+  }
+  
+  .display-star{
+    color: #dabd18b2;
+  }
+  
+  .edit-rating-star {
+    cursor: pointer;
+    color: #dabd18b2;
+  }
+  
